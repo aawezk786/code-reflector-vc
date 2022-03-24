@@ -3,7 +3,6 @@
 Deployed on Heroku  https://video-chat-v2.herokuapp.com/
 
 Run it using
-- git clone https://github.com/maheshv18/acment-video-meeting.git/
 - npm init
 - npm start
 
